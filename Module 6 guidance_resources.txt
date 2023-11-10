@@ -1,2 +1,4 @@
 Module 6 guidance_resources
 
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.drop.html
+https://www.geeksforgeeks.org/how-to-add-empty-column-to-dataframe-in-pandas/
