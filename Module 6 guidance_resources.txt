@@ -1,6 +1,0 @@
-Module 6 guidance_resources
-
-https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.dropna.html
-https://www.geeksforgeeks.org/how-to-add-empty-column-to-dataframe-in-pandas/
-https://saturncloud.io/blog/pandas-tips-reorder-columns/#:~:text=To%20move%20a%20column%20to,modifies%20the%20DataFrame%20in%2Dplace.&text=In%20summary%2C%20depending%20on%20the,columns%20to%20the%20desired%20order.
-https://apidocs.geoapify.com/docs/places/#about
