@@ -7,3 +7,4 @@ https://apidocs.geoapify.com/docs/places/#about
 AskBCS Learning Assistant - Noah
 https://docs.scipy.org/doc/scipy/tutorial/stats.html
 https://openweathermap.org/api/one-call-3#data
+https://github.com/microsoft/pylance-release/issues/757
