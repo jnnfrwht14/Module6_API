@@ -1,5 +1,5 @@
 # Module6_API
-# Please find the WeatherPy and VacationPy linear regressionanalysis and summary included in this API challenge.
+# Please find the WeatherPy and VacationPy linear regression analysis and summary included in this API challenge.
 
 # Resources and guidance used for this challenge are located in the resources_guidance.txt.
 
